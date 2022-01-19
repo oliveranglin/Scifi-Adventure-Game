@@ -235,32 +235,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Default_Material
-    second: {fileID: 2100000, guid: b0e00b1f046cc424aa6ea240e83b57ab, type: 2}
+    second: {fileID: 2100000, guid: a8bccb206a581eb4cb24a183c5142e86, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Body_Mat
-    second: {fileID: 2100000, guid: b7609896ad47c2c438d75dc55e1424ac, type: 2}
+    second: {fileID: 2100000, guid: 06ef1db8c47496a4f9639e8042b247c6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Eyes_Mat
-    second: {fileID: 2100000, guid: 44954e2238bb45147b1cc363ad897e85, type: 2}
+    second: {fileID: 2100000, guid: 1f0f4b503edb90b448e2a90ed13b66a2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Hair_Mat
-    second: {fileID: 2100000, guid: 5c433259d7247cc45a914b5a035a1361, type: 2}
+    second: {fileID: 2100000, guid: 2fdb2e900dd304d4fa30f748b9cc130a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Head_Mat
-    second: {fileID: 2100000, guid: f5e6772b2f264414797e92194a7fcc0c, type: 2}
+    second: {fileID: 2100000, guid: e9916abf0d4c1904ba4746b1fb939b6f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Tear_Mat
-    second: {fileID: 2100000, guid: 520455cef2fd6a04eb5535f4d006ecc2, type: 2}
+    second: {fileID: 2100000, guid: 8b8420c07cfbfd743985f4d1b0a6fdb1, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
