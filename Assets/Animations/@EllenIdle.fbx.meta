@@ -1,33 +1,33 @@
 fileFormatVersion: 2
-guid: 99a5e291f4333c74f9b28bce9ca11385
+guid: 83b647f9ffea82b4a9680e016dec2197
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Ellen_Body
-    100002: Ellen_Chest
-    100004: Ellen_Hair_FrontalBase
-    100006: Ellen_Hair_FrontalLeft
-    100008: Ellen_Hair_FrontalLeftEnd
-    100010: Ellen_Hair_SideDistal
-    100012: Ellen_Hair_SideEnd
-    100014: Ellen_Hair_SideIntermediate
-    100016: Ellen_Hair_SideProximal
-    100018: Ellen_HairFrontalRight
-    100020: Ellen_HairFrontalRightEnd
-    100022: Ellen_Head
-    100024: Ellen_HeadEnd
-    100026: Ellen_Hips
-    100028: Ellen_Jaw
-    100030: Ellen_JawEnd
-    100032: Ellen_Left_Arm
-    100034: Ellen_Left_Cheek
-    100036: Ellen_Left_Eye
-    100038: Ellen_Left_EyebrowDistal
-    100040: Ellen_Left_EyebrowIntermediate
-    100042: Ellen_Left_EyebrowProximal
-    100044: Ellen_Left_Foot
-    100046: Ellen_Left_Hand
-    100048: Ellen_Left_Hand_Attach
+    100000: //RootNode
+    100002: Ellen_Body
+    100004: Ellen_Chest
+    100006: Ellen_Hair_FrontalBase
+    100008: Ellen_Hair_FrontalLeft
+    100010: Ellen_Hair_FrontalLeftEnd
+    100012: Ellen_Hair_SideDistal
+    100014: Ellen_Hair_SideEnd
+    100016: Ellen_Hair_SideIntermediate
+    100018: Ellen_Hair_SideProximal
+    100020: Ellen_HairFrontalRight
+    100022: Ellen_HairFrontalRightEnd
+    100024: Ellen_Head
+    100026: Ellen_HeadEnd
+    100028: Ellen_Hips
+    100030: Ellen_Jaw
+    100032: Ellen_JawEnd
+    100034: Ellen_Left_Arm
+    100036: Ellen_Left_Cheek
+    100038: Ellen_Left_Eye
+    100040: Ellen_Left_EyebrowDistal
+    100042: Ellen_Left_EyebrowIntermediate
+    100044: Ellen_Left_EyebrowProximal
+    100046: Ellen_Left_Foot
+    100048: Ellen_Left_Hand
     100050: Ellen_Left_IndexDistal
     100052: Ellen_Left_IndexEnd
     100054: Ellen_Left_IndexIntermediate
@@ -70,73 +70,73 @@ ModelImporter:
     100128: Ellen_Right_EyebrowProximal
     100130: Ellen_Right_Foot
     100132: Ellen_Right_Hand
-    100134: Ellen_Right_Hand_Attach
-    100136: Ellen_Right_IndexDistal
-    100138: Ellen_Right_IndexEnd
-    100140: Ellen_Right_IndexIntermediate
-    100142: Ellen_Right_IndexProximal
-    100144: Ellen_Right_LowerEyelid
-    100146: Ellen_Right_LowerLeg
-    100148: Ellen_Right_LowerMouth
-    100150: Ellen_Right_MiddleDistal
-    100152: Ellen_Right_MiddleEnd
-    100154: Ellen_Right_MiddleIntermediate
-    100156: Ellen_Right_MiddleProximal
-    100158: Ellen_Right_Mouth
-    100160: Ellen_Right_Nostril
-    100162: Ellen_Right_PinkyDistal
-    100164: Ellen_Right_PinkyEnd
-    100166: Ellen_Right_PinkyIntermediate
-    100168: Ellen_Right_PinkyProximal
-    100170: Ellen_Right_RingDistal
-    100172: Ellen_Right_RingEnd
-    100174: Ellen_Right_RingIntermediate
-    100176: Ellen_Right_RingProximal
-    100178: Ellen_Right_Shoulder
-    100180: Ellen_Right_ThumbDistal
-    100182: Ellen_Right_ThumbEnd
-    100184: Ellen_Right_ThumbIntermediate
-    100186: Ellen_Right_ThumbProximal
-    100188: Ellen_Right_ToeEnd
-    100190: Ellen_Right_Toes
-    100192: Ellen_Right_UpperArm
-    100194: Ellen_Right_UpperEyelid
-    100196: Ellen_Right_UpperLeg
-    100198: Ellen_Right_UpperMouth
-    100200: Ellen_Root
-    100202: Ellen_Skeleton
-    100204: Ellen_Spine
-    100206: Ellen_TongueDistal
-    100208: Ellen_TongueEnd
-    100210: Ellen_TongueProximal
-    100212: Ellen_UpperChest
-    100214: Ellen_UpperMouth
-    100216: //RootNode
-    400000: Ellen_Body
-    400002: Ellen_Chest
-    400004: Ellen_Hair_FrontalBase
-    400006: Ellen_Hair_FrontalLeft
-    400008: Ellen_Hair_FrontalLeftEnd
-    400010: Ellen_Hair_SideDistal
-    400012: Ellen_Hair_SideEnd
-    400014: Ellen_Hair_SideIntermediate
-    400016: Ellen_Hair_SideProximal
-    400018: Ellen_HairFrontalRight
-    400020: Ellen_HairFrontalRightEnd
-    400022: Ellen_Head
-    400024: Ellen_HeadEnd
-    400026: Ellen_Hips
-    400028: Ellen_Jaw
-    400030: Ellen_JawEnd
-    400032: Ellen_Left_Arm
-    400034: Ellen_Left_Cheek
-    400036: Ellen_Left_Eye
-    400038: Ellen_Left_EyebrowDistal
-    400040: Ellen_Left_EyebrowIntermediate
-    400042: Ellen_Left_EyebrowProximal
-    400044: Ellen_Left_Foot
-    400046: Ellen_Left_Hand
-    400048: Ellen_Left_Hand_Attach
+    100134: Ellen_Right_IndexDistal
+    100136: Ellen_Right_IndexEnd
+    100138: Ellen_Right_IndexIntermediate
+    100140: Ellen_Right_IndexProximal
+    100142: Ellen_Right_LowerEyelid
+    100144: Ellen_Right_LowerLeg
+    100146: Ellen_Right_LowerMouth
+    100148: Ellen_Right_MiddleDistal
+    100150: Ellen_Right_MiddleEnd
+    100152: Ellen_Right_MiddleIntermediate
+    100154: Ellen_Right_MiddleProximal
+    100156: Ellen_Right_Mouth
+    100158: Ellen_Right_Nostril
+    100160: Ellen_Right_PinkyDistal
+    100162: Ellen_Right_PinkyEnd
+    100164: Ellen_Right_PinkyIntermediate
+    100166: Ellen_Right_PinkyProximal
+    100168: Ellen_Right_RingDistal
+    100170: Ellen_Right_RingEnd
+    100172: Ellen_Right_RingIntermediate
+    100174: Ellen_Right_RingProximal
+    100176: Ellen_Right_Shoulder
+    100178: Ellen_Right_ThumbDistal
+    100180: Ellen_Right_ThumbEnd
+    100182: Ellen_Right_ThumbIntermediate
+    100184: Ellen_Right_ThumbProximal
+    100186: Ellen_Right_ToeEnd
+    100188: Ellen_Right_Toes
+    100190: Ellen_Right_UpperArm
+    100192: Ellen_Right_UpperEyelid
+    100194: Ellen_Right_UpperLeg
+    100196: Ellen_Right_UpperMouth
+    100198: Ellen_Root
+    100200: Ellen_Skeleton
+    100202: Ellen_Spine
+    100204: Ellen_TongueDistal
+    100206: Ellen_TongueEnd
+    100208: Ellen_TongueProximal
+    100210: Ellen_UpperChest
+    100212: Ellen_UpperMouth
+    100214: Ellen_Left_Hand_Attach
+    100216: Ellen_Right_Hand_Attach
+    400000: //RootNode
+    400002: Ellen_Body
+    400004: Ellen_Chest
+    400006: Ellen_Hair_FrontalBase
+    400008: Ellen_Hair_FrontalLeft
+    400010: Ellen_Hair_FrontalLeftEnd
+    400012: Ellen_Hair_SideDistal
+    400014: Ellen_Hair_SideEnd
+    400016: Ellen_Hair_SideIntermediate
+    400018: Ellen_Hair_SideProximal
+    400020: Ellen_HairFrontalRight
+    400022: Ellen_HairFrontalRightEnd
+    400024: Ellen_Head
+    400026: Ellen_HeadEnd
+    400028: Ellen_Hips
+    400030: Ellen_Jaw
+    400032: Ellen_JawEnd
+    400034: Ellen_Left_Arm
+    400036: Ellen_Left_Cheek
+    400038: Ellen_Left_Eye
+    400040: Ellen_Left_EyebrowDistal
+    400042: Ellen_Left_EyebrowIntermediate
+    400044: Ellen_Left_EyebrowProximal
+    400046: Ellen_Left_Foot
+    400048: Ellen_Left_Hand
     400050: Ellen_Left_IndexDistal
     400052: Ellen_Left_IndexEnd
     400054: Ellen_Left_IndexIntermediate
@@ -179,55 +179,51 @@ ModelImporter:
     400128: Ellen_Right_EyebrowProximal
     400130: Ellen_Right_Foot
     400132: Ellen_Right_Hand
-    400134: Ellen_Right_Hand_Attach
-    400136: Ellen_Right_IndexDistal
-    400138: Ellen_Right_IndexEnd
-    400140: Ellen_Right_IndexIntermediate
-    400142: Ellen_Right_IndexProximal
-    400144: Ellen_Right_LowerEyelid
-    400146: Ellen_Right_LowerLeg
-    400148: Ellen_Right_LowerMouth
-    400150: Ellen_Right_MiddleDistal
-    400152: Ellen_Right_MiddleEnd
-    400154: Ellen_Right_MiddleIntermediate
-    400156: Ellen_Right_MiddleProximal
-    400158: Ellen_Right_Mouth
-    400160: Ellen_Right_Nostril
-    400162: Ellen_Right_PinkyDistal
-    400164: Ellen_Right_PinkyEnd
-    400166: Ellen_Right_PinkyIntermediate
-    400168: Ellen_Right_PinkyProximal
-    400170: Ellen_Right_RingDistal
-    400172: Ellen_Right_RingEnd
-    400174: Ellen_Right_RingIntermediate
-    400176: Ellen_Right_RingProximal
-    400178: Ellen_Right_Shoulder
-    400180: Ellen_Right_ThumbDistal
-    400182: Ellen_Right_ThumbEnd
-    400184: Ellen_Right_ThumbIntermediate
-    400186: Ellen_Right_ThumbProximal
-    400188: Ellen_Right_ToeEnd
-    400190: Ellen_Right_Toes
-    400192: Ellen_Right_UpperArm
-    400194: Ellen_Right_UpperEyelid
-    400196: Ellen_Right_UpperLeg
-    400198: Ellen_Right_UpperMouth
-    400200: Ellen_Root
-    400202: Ellen_Skeleton
-    400204: Ellen_Spine
-    400206: Ellen_TongueDistal
-    400208: Ellen_TongueEnd
-    400210: Ellen_TongueProximal
-    400212: Ellen_UpperChest
-    400214: Ellen_UpperMouth
-    400216: //RootNode
-    2100000: Ellen_Hair_Mat
-    2100002: Ellen_Body_Mat
-    2100004: Ellen_Head_Mat
-    2100006: Ellen_Eyes_Mat
-    2100008: Ellen_Tear_Mat
-    2100010: Default_Material
+    400134: Ellen_Right_IndexDistal
+    400136: Ellen_Right_IndexEnd
+    400138: Ellen_Right_IndexIntermediate
+    400140: Ellen_Right_IndexProximal
+    400142: Ellen_Right_LowerEyelid
+    400144: Ellen_Right_LowerLeg
+    400146: Ellen_Right_LowerMouth
+    400148: Ellen_Right_MiddleDistal
+    400150: Ellen_Right_MiddleEnd
+    400152: Ellen_Right_MiddleIntermediate
+    400154: Ellen_Right_MiddleProximal
+    400156: Ellen_Right_Mouth
+    400158: Ellen_Right_Nostril
+    400160: Ellen_Right_PinkyDistal
+    400162: Ellen_Right_PinkyEnd
+    400164: Ellen_Right_PinkyIntermediate
+    400166: Ellen_Right_PinkyProximal
+    400168: Ellen_Right_RingDistal
+    400170: Ellen_Right_RingEnd
+    400172: Ellen_Right_RingIntermediate
+    400174: Ellen_Right_RingProximal
+    400176: Ellen_Right_Shoulder
+    400178: Ellen_Right_ThumbDistal
+    400180: Ellen_Right_ThumbEnd
+    400182: Ellen_Right_ThumbIntermediate
+    400184: Ellen_Right_ThumbProximal
+    400186: Ellen_Right_ToeEnd
+    400188: Ellen_Right_Toes
+    400190: Ellen_Right_UpperArm
+    400192: Ellen_Right_UpperEyelid
+    400194: Ellen_Right_UpperLeg
+    400196: Ellen_Right_UpperMouth
+    400198: Ellen_Root
+    400200: Ellen_Skeleton
+    400202: Ellen_Spine
+    400204: Ellen_TongueDistal
+    400206: Ellen_TongueEnd
+    400208: Ellen_TongueProximal
+    400210: Ellen_UpperChest
+    400212: Ellen_UpperMouth
+    400214: Ellen_Left_Hand_Attach
+    400216: Ellen_Right_Hand_Attach
     4300000: Ellen_Body
+    7400000: EllenIdle
+    7400002: EllenIdleShort
     9500000: //RootNode
     13700000: Ellen_Body
   externalObjects:
@@ -235,37 +231,37 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Default_Material
-    second: {fileID: 2100000, guid: a8bccb206a581eb4cb24a183c5142e86, type: 2}
+    second: {fileID: 2100000, guid: e61f771c3460146f5875519e3e9c6ff2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Body_Mat
-    second: {fileID: 2100000, guid: 06ef1db8c47496a4f9639e8042b247c6, type: 2}
+    second: {fileID: 2100000, guid: 016381b9be8934122896661e56546573, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Eyes_Mat
-    second: {fileID: 2100000, guid: 1f0f4b503edb90b448e2a90ed13b66a2, type: 2}
+    second: {fileID: 2100000, guid: 3b3601a8367b14c5d96e33317f729226, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Hair_Mat
-    second: {fileID: 2100000, guid: 2fdb2e900dd304d4fa30f748b9cc130a, type: 2}
+    second: {fileID: 2100000, guid: 7000a864083a54d17bb29d8a0c311ff0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Head_Mat
-    second: {fileID: 2100000, guid: e9916abf0d4c1904ba4746b1fb939b6f, type: 2}
+    second: {fileID: 2100000, guid: b6244ee9274df4db29d43aac585f6c73, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ellen_Tear_Mat
-    second: {fileID: 2100000, guid: 8b8420c07cfbfd743985f4d1b0a6fdb1, type: 2}
+    second: {fileID: 2100000, guid: a7992b3277ce2485286da2211e51e783, type: 2}
   materials:
-    importMaterials: 1
-    materialName: 1
+    importMaterials: 0
+    materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -275,7 +271,11 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Ellen_Spine' has translation animation that
+      will be discarded.\n\t'Ellen_Left_UpperLeg' has scale animation that will be
+      discarded.\n\t'Ellen_Left_LowerLeg' has scale animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -286,17 +286,73 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EllenIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EllenIdleShort
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
+    importVisibility: 0
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -314,9 +370,9 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
+    normalCalculationMode: 0
   importAnimation: 1
-  copyAvatar: 0
+  copyAvatar: 1
   humanDescription:
     serializedVersion: 2
     human:
@@ -1321,7 +1377,8 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 99a5e291f4333c74f9b28bce9ca11385,
+    type: 3}
   animationType: 3
   humanoidOversampling: 1
   additionalBone: 0
